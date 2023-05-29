@@ -1,7 +1,9 @@
 # User-space-threads-library
 
-- pour compiler le projet: `make  clean` puis `make`
+- Page web du projet: [click](https://goglin.gitlabpages.inria.fr/enseirb-it202/)
 
-- pour exécuter un test :`./install/bin/test`(par exemple 51-fibonacci)
+- Pour compiler le projet: `make  clean` puis `make`
 
-- pour générer des graphes : `cd graphs` , puis on exécute les fichiers python.
+- Pour exécuter un test :`./install/bin/test`(par exemple 51-fibonacci)
+
+- Pour générer des graphes : `cd graphs` , puis on exécute les fichiers python.
